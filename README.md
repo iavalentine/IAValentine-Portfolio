@@ -18,4 +18,7 @@ Features
 * Object-oriented design with reusable components.
 * Console-based user interaction for a simple gameplay experience.
 
+Installation & Usage 
+
+Navigate to the README in the blackjack-ts folder to see how to run the project.
 
