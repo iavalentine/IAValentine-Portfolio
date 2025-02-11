@@ -1,7 +1,7 @@
 # IAValentine-Portfolio
 Overview
 
-This repository contains various projects that showcase my programming skills and experience. Below are two Blackjack-related projects that demonstrate object-oriented programming principles and front-end developement using React.
+This repository contains various projects that showcase my programming skills and experience. Below are two Blackjack-related projects that demonstrate object-oriented programming principles and front-end development using React.
 
 Projects
 
