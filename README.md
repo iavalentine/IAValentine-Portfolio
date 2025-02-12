@@ -1,7 +1,7 @@
 # IAValentine-Portfolio
 Overview
 
-This repository contains various projects that showcase my programming skills and experience. Below are two Blackjack-related projects that demonstrate object-oriented programming principles and front-end development using React.
+This repository contains various projects that showcase my programming skills and experience. Below there is a Blackjack project that demonstrates object-oriented programming principles, also there is a card deck simulator that demonstrates front-end development using React.
 
 Projects
 
@@ -23,21 +23,24 @@ Installation & Usage
 Navigate to the README in the blackjack-ts folder to see how to run the project.
 
 
-2. Blackjack - React Frontend
+2. Card Deck Simulator - React & TypeScript Implementation
 
 Description
 
-This is a web-based Blackjack game built using React. The project provides a user-friendly interface to play Blackjack against an AI dealer, following the same rules as the TypeScript version but with a visual component.
+This is a web-based Card Deck Simulator built using React and TypeScript. The project allows users to shuffle a standard 52-card deck, draw random cards, and view the remaining card count. The application follows component-based design principles, utilizing React functional components and state management to create an interactive experience.
 
 Features
 
-* Interactive UI built with React.
-* Clickable buttons to hit, stay, and restart the game.
-* Displays game status, player's hand, and dealer's hand.
-* Dynamic UI updates based on game logic.
+* Dynamically generates a full deck of 52 playing cards.
+* Allows users to shuffle the deck randomly.
+* Provides functionality to draw a card from the deck.
+* Displays drawn cards in a separate area.
+* Shows the total number of remaining cards in the deck.
+* Built using React components for modularity and reusability.
 
 Installation & Usage 
 
-Navigate to the README in the blackjack-react folder to see how to run the project.
+Navigate to the README in the card-deck-simulator-react folder to see how to run the project.
+
 
 
