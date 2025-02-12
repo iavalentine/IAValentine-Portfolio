@@ -8,4 +8,4 @@ Installation & Usage
 
 4. Start the development server with npm start
 
-5. It should open of a webpage of the simulator but if not open http://localhost:3000 in your browser to interact with the simulator
+5. It should open to a webpage of the simulator but if not open http://localhost:3000 in your browser to interact with the simulator
